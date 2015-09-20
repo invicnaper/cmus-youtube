@@ -49,7 +49,7 @@ open cmus using
     $ ./cmus
   
 #Command Line
-You cane use cmus-youtube by using the command line : 
+You can use cmus-youtube by using the command line : 
 
     :youtube-dl <url>
     
