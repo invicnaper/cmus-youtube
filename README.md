@@ -42,11 +42,11 @@ add this
     
 then write build the source using 
 
-  $ make 
+    $ make 
     
 open cmus using 
 
-  $ ./cmus
+    $ ./cmus
   
 #Command Line
 You cane use cmus-youtube by using the command line : 
