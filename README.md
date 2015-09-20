@@ -40,7 +40,7 @@ add this
     
     -D_YOUTUBE_DL=1
     
-then write build the source using 
+then build the source using 
 
     $ make 
     
