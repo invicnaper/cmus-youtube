@@ -1,5 +1,5 @@
 # cmus-youtube
-A patch that allows you to download an play youtube songs using cmus
+A patch that allows you to download and play youtube songs using cmus
 
 # How to use ?
 First , you have to download cmus code source , and build them .
