@@ -10,7 +10,7 @@ then go to cmus directory . Open the file <b>command_mode.c</b> , and add the co
 
 add this
 
-    { "youtube",		cmd_youtube,	1, 1, NULL,		  0, 0 },
+    { "youtube-dl",		cmd_youtube,	1, 1, NULL,		  0, 0 },
     
 after 
 
