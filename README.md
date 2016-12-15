@@ -10,7 +10,7 @@ then go to cmus directory . Open the file <b>command_mode.c</b> , and add the co
 
 add this
 
-    { "youtube-dl",		cmd_youtube,	1, 1, NULL,		  0, 0 },
+    { "youtube",		cmd_youtube,	1, 1, NULL,		  0, 0 },
     
 after 
 
@@ -51,7 +51,7 @@ open cmus using
 #Command Line
 You can use cmus-youtube by using the command line : 
 
-    :youtube-dl <url>
+    :youtube <url>
     
 
 
