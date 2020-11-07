@@ -27,6 +27,10 @@ List available optional features
 Auto-detect everything
 
     $ ./configure
+    
+If you get a 'configure failed' error, run
+
+    $ sudo apt-get install libncurses5-dev
 
 To disable some feature, arts for example, and install to $HOME run
 
